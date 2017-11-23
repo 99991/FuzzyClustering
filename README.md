@@ -7,9 +7,9 @@ This repository contains some code related to fuzzy clustering. So far it has:
     * Normalized Partition Coefficient (NPC)
     * Fuzzy Hypervolume (FHV)
     * Fukuyama-Sugeno Index (FS)
-    * Xie-Beni Index
-    * Beringer-Hullermeier Index
-    * Bouguessa-Wang-Sun index
+    * Xie-Beni Index (XB)
+    * Beringer-Hullermeier Index (BH)
+    * Bouguessa-Wang-Sun index (BWS)
 
 Here is a plot of some data clustered with FCM:
 
