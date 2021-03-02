@@ -1,4 +1,6 @@
-This repository contains some code related to fuzzy clustering. So far it has:
+This repository contains my solutions for a lecture about fuzzy clustering. No guarantee for correctness or anything, but maybe someone finds the code useful anyway.
+
+Content:
 
 * Fuzzy C-Means (FCM)
 * A benchmark of various different methods to calculate covariance matrices
